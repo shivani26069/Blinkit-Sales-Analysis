@@ -34,10 +34,4 @@ The dashboard includes interactive charts and visuals for:
 
 The aim is to uncover actionable insights and support strategic decision-making for product optimization, customer engagement, and distribution planning.
 
-## 📸 Dashboard Preview
-
-*Add a screenshot of your dashboard here!*
-
-```markdown
-![Dashboard Preview](images/dashboard_preview.png)
 
